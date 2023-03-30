@@ -1,12 +1,15 @@
-# Data-Engineering-Project-Open Source Kenya
+# Data Engineering Project Open Source Kenya 🛠📋
 
 Learning Data Engineering through Open Source Projects for TechBlurbs. 
 
-`~ Projects to be done in Branches`
+`* Projects to be done in Branches`
 
-## Project 1: `Basics SQL | Python~ pandas  using Fugue or ipythonsql`
+## Project 1: 
+
+<p>The first project will be more like a learning session,
+on the basics of SQL through utilisation of Python ~ pandas using Fugue or ipythonsql</p>
+
 ---
-
 
 Review Blogs 
 
